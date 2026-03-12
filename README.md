@@ -37,3 +37,18 @@ student-form/
 │── inline style.css # Styling
 │── form.php # Handles form submission and stores data in DB
 └── README.md
+
+
+## 🚀 Future Improvements
+- Make form fully responsive for mobile devices  
+- Add **password-protected admin panel** to manage student data  
+- Implement **server-side validation** for better security  
+- Use **prepared statements** to prevent SQL injection  
+
+---
+
+## 📫 Author
+**Amna Khan**  
+GitHub: https://github.com/codewthamna  
+Email: amnasadozai09@gmail.com  
+LinkedIn: https://linkedin.com/in/AmnaKhan
