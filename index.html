@@ -6,7 +6,7 @@
     <title>Student Registration</title>
 </head>
     <body style="margin:0; padding:0;">
-<form  action="form.php" method="POST"  style="background-color: rgb(246, 205, 212); width: 100%; height: 100vh;margin:0;padding:20px">
+<form  action="form.php" method="POST" enctype="multipart/form-data"  style="background-color: rgb(246, 205, 212); width: 100%; height: 100vh;margin:0;padding:20px">
     
     <caption> <h1> Student's Registration Form</h1></caption>
     
@@ -20,7 +20,7 @@
        <br>
   <label>
     Student name :
-    <input type="text"name="Firstname" placeholder="Firstname">   <input type="text" name="lastname" placeholder="Last name">
+    <input type="text"name="firstname" placeholder="Firstname">   <input type="text" name="lastname" placeholder="Last name">
   </label>  
   <br>
   <br>
@@ -31,8 +31,8 @@
 <br>
 <br>
 <lable>
-    Date of Birth  : <input type="text" size="3"name="dob" placeholder="Day"> - <input type="text" size="3"name="dob" placeholder="Month"> - 
-    <input type="text" size="3"name="dob" placeholder="Year">
+    Date of Birth  : <input type="text" size="3"name="day" placeholder="Day"> - <input type="text" size="3"name="month" placeholder="Month"> - 
+    <input type="text" size="4"name="year" placeholder="Year">
 </lable>
 <br>
 <br>
@@ -80,7 +80,7 @@ E-mail id : <input type="text" name="email" placeholder="">
     <br>
     <label>
         Course : 
-        <select>
+        <select name="course">
             <option value=""> ----select courses----</option>
             <option value="C++">C++</option>
             <option value="Python">Python</option>
@@ -94,7 +94,7 @@ E-mail id : <input type="text" name="email" placeholder="">
     <br>
     <br>
     <label>
-        Choose a photo :  <input type="file"/>  
+        Choose a photo :  <input type="file" name="photo" required >  
     </label>
     <br>
     <br>
@@ -104,7 +104,7 @@ E-mail id : <input type="text" name="email" placeholder="">
     <br>
     <br>
     <label>
-        Address : <textarea name="Address" cols="48" rows="5"></textarea>
+        Address : <textarea name="address" cols="48" rows="5"></textarea>
     </label>
 </main>
 <br>
