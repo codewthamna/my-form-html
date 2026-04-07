@@ -15,16 +15,16 @@ The project demonstrates basic **full-stack development concepts**, form validat
 ---
 
 ## ✨ Features
-- Interactive and responsive student registration form  
-- Stores submitted data in MySQL database  
-- View and manage submitted student records from the database  
+- Interactive and responsive student registration form.  
+- Stores submitted data in MySQL Database. 
+- View and manage submitted student records from the database . 
 
 ---
 
 ## ⚙️ How It Works
 1. Open **localhost** using XAMPP/WAMP/MAMP.  
 2. Place the project folder inside `htdocs` (or equivalent).  
-3. Open the form in your browser (e.g., `http://localhost/project-folder/`).  
+3. Open the form in your browser (e.g., `http://localhost/proj/studentForm/`).  
 4. Fill in student details and submit.  
 5. Data is stored in the MySQL database (`students` table).  
 6. Optional: Connect PHP pages to display, update, or delete records.  
