@@ -51,4 +51,4 @@ student-form/
 **Amna Khan**  
 GitHub: https://github.com/codewthamna  
 Email: amnasadozai09@gmail.com  
-LinkedIn: https://linkedin.com/in/AmnaKhan
+LinkedIn: https://linkedin.com/in/Amna-Khan
