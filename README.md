@@ -47,6 +47,8 @@ student-form/
 
 ---
 
+<img width="1906" height="970" alt="image" src="https://github.com/user-attachments/assets/74282130-dded-4ecc-820a-9b2c0fa38687" />
+
 ## 📫 Author
 **Amna Khan**  
 GitHub: https://github.com/codewthamna  
