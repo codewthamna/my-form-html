@@ -33,10 +33,10 @@ The project demonstrates basic **full-stack development concepts**, form validat
 
 ## 📂 Project Structure
 student-form/
-│── index.html # Student registration form
-│── inline style.css # Styling
-│── form.php # Handles form submission and stores data in DB
-└── README.md
+│── index.html # Student registration form.
+│── inline style.css # Styling.
+│── form.php # Handles form submission and stores data in DB.
+└── README.md.
 
 
 ## 🚀 Future Improvements
