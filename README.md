@@ -10,7 +10,7 @@ The project demonstrates basic **full-stack development concepts**, form validat
 - **Frontend:** HTML, CSS,  
 - **Backend:** PHP  
 - **Database:** MySQL (local server using XAMPP / WAMP / MAMP)  
-- **Tools:** VS Code, XAMPP, Chrome / Brow
+- **Tools:** VS Code, XAMPP, Chrome / Brows
 
 ---
 
